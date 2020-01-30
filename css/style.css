@@ -1335,6 +1335,7 @@ body.boxed .body{
 }
 .sticky .dd-menu > li > a, .header-style2 .dd-menu > li > a, .header-style3 .dd-menu > li > a{
 	color:#333;
+	font-weight: 600;
 }
 .dd-menu > li ul{
 	margin:0;
